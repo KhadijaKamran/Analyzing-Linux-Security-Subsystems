@@ -12,3 +12,6 @@ conflicting policies when two or multiple Linux security subsystems are involved
 we are looking for implementing new tools or improving existing ones to facilitate analysing such 
 issues.
 
+## Link to the kernel contribution patches
+
+https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/log/?h=staging-testing&qt=author&q=Khadija+Kamran
